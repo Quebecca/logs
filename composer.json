@@ -23,7 +23,7 @@
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "ext-pdo": "*",
-        "psr/log": "^1.0",
+        "psr/log": "*",
         "typo3/cms-core": "^11.5 || ^12"
     },
     "config": {
